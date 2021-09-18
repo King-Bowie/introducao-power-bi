@@ -21,7 +21,7 @@ Neste repositório estou sendo introduzido ao Power BI
 
 ### Link para acessar a Dashboard:
 
-https://app.powerbi.com/links/tKk92vOBpa?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare
+https://app.powerbi.com/reportEmbed?reportId=9cfbbeae-2968-483c-9f7e-42caee5c1577&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
 
 ### Imagem da Dashboard:
 
