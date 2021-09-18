@@ -19,6 +19,10 @@ Neste repositório estou sendo introduzido ao Power BI
 * Importar novos visuais.
 * Configurar o layout móvel;
 
+### Link para acessar a Dashboard
 
+### Imagem da Dashboard:
+
+https://app.powerbi.com/links/tKk92vOBpa?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare
 
 ![Dashboard Pets!](/dados/pets.png "dashboard pets")
