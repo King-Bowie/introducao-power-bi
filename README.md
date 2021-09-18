@@ -21,4 +21,4 @@ Neste repositório estou sendo introduzido ao Power BI
 
 
 
-![Dashboard Pets!](/dados/image/pets.png "dashboard pets")
+![Dashboard Pets!](/dados/pets.png "dashboard pets")
